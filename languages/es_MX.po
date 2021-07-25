@@ -1933,7 +1933,7 @@ msgstr ""
 
 #: wordpress-creation-kit-api/wordpress-creation-kit.php:421
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: wordpress-creation-kit-api/wordpress-creation-kit.php:421
 msgid "Add Entry"
@@ -2086,7 +2086,7 @@ msgstr ""
 
 #: wordpress-creation-kit-api/wck-fep/wck-fep.php:1100
 msgid "Please type your e-mail address."
-msgstr ""
+msgstr "Por favor, escriba su dirección de correo electrónico."
 
 #: wordpress-creation-kit-api/wck-fep/wck-fep.php:1102
 msgid "The email address isn&#8217;t correct."
